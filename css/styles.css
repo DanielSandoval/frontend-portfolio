@@ -8,6 +8,10 @@ Aqui escribe tu codigo de CSS.
 	font-family: Arial;
 }
 
+.header {
+	  margin-bottom: 10px;
+}
+
 .header div{
 	display: inline;
 }
@@ -18,7 +22,7 @@ Aqui escribe tu codigo de CSS.
 
 .text-in-header {
 	text-align: right;
-	margin-bottom: -15px;
+	height: 15px;
 }
 
 hr {
