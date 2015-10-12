@@ -1,3 +1,102 @@
 /*
 Aqui escribe tu codigo de CSS.
 */
+
+.container {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.header div{
+	display: inline;
+}
+
+.header .message-header {
+	float: right;
+}
+
+#nav {
+	margin-top: 35px;
+	clear: right;
+}
+
+.first-block {
+	float: left;
+	clear: left;
+}
+
+.second-block {
+	float: right;
+	clear: right;
+}
+
+.third-block {
+	float: left;
+	clear: left;
+}
+
+.fourth-block {
+	float: right;
+	clear: right;
+}
+
+.fifth-block {
+	float: left;
+	clear: left;
+}
+
+.sixth-block {
+	float: right;
+	clear: right;
+}
+
+.text-in-block {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+ #text-in-image {
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 19%;
+	-webkit-margin-before: 0em;
+}
+
+.se-block {
+	width: 550px;
+	height: 250px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+#first-image {
+	background-color: #1E90FF;
+}
+
+#second-image {
+	background-color: #8A2BE2;
+	float: right;
+}
+
+#third-image {
+	background-color: #FF00FF;
+}
+
+#fourth-image {
+	background-color: #3CB371;
+	float: right;
+}
+
+#fifth-image {
+	background-color: #FF4500;
+}
+
+#sixth-image {
+	background-color: #FFD700;
+	float: right;
+}
