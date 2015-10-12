@@ -5,19 +5,30 @@ Aqui escribe tu codigo de CSS.
 .container {
 	margin-left: 50px;
 	margin-right: 50px;
+	font-family: Arial;
 }
 
 .header div{
 	display: inline;
 }
 
-.header .message-header {
+.message-header {
 	float: right;
+}
+
+.text-in-header {
+	text-align: right;
+	margin-bottom: -15px;
+}
+
+hr {
+	color: gray;
 }
 
 #nav {
 	margin-top: 35px;
 	clear: right;
+	color: gray;
 }
 
 .first-block {
@@ -78,13 +89,25 @@ a {
 	background-color: #1E90FF;
 }
 
+.first-block p:last-child {
+	color: blue;
+}
+
 #second-image {
 	background-color: #8A2BE2;
 	float: right;
 }
 
+.second-block p:last-child {
+	color: blue;
+}
+
 #third-image {
 	background-color: #FF00FF;
+}
+
+.third-block p:last-child {
+	color: blue;
 }
 
 #fourth-image {
@@ -92,11 +115,23 @@ a {
 	float: right;
 }
 
+.fourth-block p:last-child {
+	color: blue;
+}
+
 #fifth-image {
 	background-color: #FF4500;
+}
+
+.fifth-block p:last-child {
+	color: blue;
 }
 
 #sixth-image {
 	background-color: #FFD700;
 	float: right;
+}
+
+.sixth-block p:last-child {
+	color: blue;
 }
