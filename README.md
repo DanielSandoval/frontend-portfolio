@@ -106,5 +106,5 @@ After having your changes on GitHub, you have to click on the **Pull Requests** 
 
 Now you have to check your colleagues' code and leave your own comments. Go to one of your colleagues' code and leave 3 suggestions to their code **Issues**.
 
-### Puedes ver la página aquí
-## http://danielsandoval.github.io/frontend-portfolio.
+## Puedes ver la página aquí
+### http://danielsandoval.github.io/frontend-portfolio.
